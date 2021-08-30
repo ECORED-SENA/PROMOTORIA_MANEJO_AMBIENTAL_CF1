@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="103.578" height="46.601" viewBox="0 0 103.578 46.601">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectángulo_24345" data-name="Rectángulo 24345" width="103.578" height="46.601" fill="none"/>
+    </clipPath>
+    <pattern id="pattern" preserveAspectRatio="none" width="100%" height="100%" viewBox="0 0 137 61">
+      <image width="137" height="61" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIkAAAA9CAYAAACZf0qqAAAAAXNSR0IArs4c6QAAADhlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAAqACAAQAAAABAAAAiaADAAQAAAABAAAAPQAAAADip241AAAEb0lEQVR4Ae2cyyt1YRTGn+McueSaW0jKbaCUSykDUZRLMaQUA5fyZ3x/iIFcJhhgwEgZGSBSGLgOkHsSyt1nvXW+z+Qcdc7au7Xf1jvxOb693uddz897WXtvvq/vBo+0x8dHbG5u4vLyEvX19cjJyfGIcm/L9HkJEuL57e0NHx8fiIuLQ0xMjLez7xH1noLEIzm1Tqb+KlpnKf+AFBL+nFoXUSGxzlL+ASkk/Dm1LqJCYp2l/ANSSPhzal1EhcQ6S/kHpJDw59S6iAqJdZbyD0gh4c+pdREVEuss5R+QQsKfU+siKiTWWco/IIWEP6fWRVRIPGYpPUtDD10dHR3h9fXVFfUBV3rRTlgy8Pn5idPTU8zPzxtIOjo6UFNTg9TUVJb4oYIoJKEyI/Dz9/d3A8fCwgJWV1ext7eHoaEhNDc3IykpyTHFColjqeUP7Pf7kZ+fj7q6OpycnGBlZcU8ykkzTENDA9LT0x15pNP/57vxD0cjOpEBeqY3IyMDZWVliI+Px+HhIba3t83XhIQE5ObmIjk5mb1rhYQ9pc4HpKWloKDAAHF1dYWdnR2zDBE4hYWFSExMhM/nYxOikLCl0r1ABADNGMXFxcjMzMT5+Tl2d3fNjBIIBJCVlYWUlBS2pUchcc9b1p4IFJoxaEbJzs7G7e2tmVFoVqFjMn1OSxNHC7txfX5+Np0/PT1x9KUxHMoAAdHa2oqbmxtsbGxgYmLC1FB6e3vNbEPLUDQtLCTX19eYm5szHUfTiV7rfAbopTVq9ALb8fExRkdHcX9/j4GBAVRWVoKWoUhb2CsfHh6wtraG2dnZSOPrdS5lIPh2I9VSqN3d3ZlXYukEVFFR4RwkaWlp/87fLo1Vu4kgA1QnoVlja2vL7EvoqFxaWor29nZUVVUhNjY2gqj/Lwn7midR+fLyAhKhTWYGaAahTevy8rJZYtbX11FUVATaj/T09CAvLy/qU05YSGSmRVUFM0CnmIuLCywuLmJ8fNzMIiUlJeju7kZXV5epzgb/bzRfw+5Jogms1zqbAZrlz87OzH5xZGTE1Ehqa2sxODiIlpYWUyvhUqAzCVcmXYxDJxnakM7MzGB6etrcx6murkZ/fz/ozjB3aV4hcdFcjq5oj7i/v4/JyUmzxND3dHOvr68PjY2NptLK0c/PGLrc/MyG8H/TEnNwcICxsTFMTU2Bip1NTU0YHh42d4ajLZqFGr5CEiozAj+njSoVOGkmoeJYZ2enmUHo0QH6y09ONV1unMqsA3GDx92lpSVTVW1ra0N5eXnUdZDfpCokv2VI2M8JFKqE016EbuC58XfjFBJhEEiUo0/LS3RFmCaFRJghEuUoJBJdEaZJIRFmiEQ5ColEV4RpUkiEGSJRjkIi0RVhmhQSYYZIlKOQSHRFmCaFRJghEuUoJBJdEaZJIRFmiEQ5ColEV4RpUkiEGSJRjkIi0RVhmhQSYYZIlKOQSHRFmCaFRJghEuUoJBJdEaZJIRFmiEQ5ColEV4RpUkiEGSJRzl/frXGvALsoiwAAAABJRU5ErkJggg=="/>
+    </pattern>
+  </defs>
+  <g id="Grupo_94874" data-name="Grupo 94874" transform="translate(0 29.64)">
+    <g id="Grupo_94879" data-name="Grupo 94879" transform="translate(0 -29.64)" clip-path="url(#clip-path)">
+      <rect id="Rectángulo_24344" data-name="Rectángulo 24344" width="103.578" height="46.601" fill="url(#pattern)"/>
+    </g>
+  </g>
+</svg>

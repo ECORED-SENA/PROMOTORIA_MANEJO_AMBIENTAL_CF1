@@ -50,7 +50,7 @@
     .row.mt-5
       .col-6.col-lg-5.p-0.offset-3.offset-lg-0.align-self-center
         figure
-          img(src="@/assets/template/tema-2-9.png", alt="Texto que describa la imagen")
+          img(src="@/assets/template/diagrama_Flujo.svg", alt="Texto que describa la imagen")
       .col-12.col-lg-7.p-0.mt-4.mt-lg-0
         .tabla-a.color-acento-contenido 
           table

@@ -66,6 +66,7 @@
           .col-4.offset-4.offset-lg-0
             figure
               img(src="@/assets/template/tema-3-9.png", alt="Texto que describa la imagen").w-75.margin-0-auto
+    p.mt-5 En los componentes ambientales existen factores:
     .tabla-a.color-acento-contenido.mt-5 
       table
         thead

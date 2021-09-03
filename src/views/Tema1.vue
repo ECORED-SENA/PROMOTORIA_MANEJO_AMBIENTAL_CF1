@@ -145,9 +145,9 @@
       .col-6
         AcordionA.mb-5(tipo="b" clase-tarjeta="tarjeta bg-verde-claro")
           .row(titulo="Resolución 1402 de 2006")
-            p Reglamenta aspectos del Decreto 4741 de 2005 frente a los residuos o desechos peligrosos en Colombia
+            p Reglamenta aspectos del Decreto 4741 de 2005 frente a los residuos o desechos peligrosos en Colombia.
           div(titulo="Resolución 1362 de 2007")
-            p Expide los requisitos y procedimientos para realizar el Registro de GENERADORES de residuos Desechos Peligrosos en Colombia
+            p Expide los requisitos y procedimientos para realizar el Registro de GENERADORES de residuos Desechos Peligrosos en Colombia.
           div(titulo="Resolución 1652 de 2007")
             p Regula la prohibición en Colombia de fabricar e importar equipos y productos que contengan sustancias agotadoras de la capa de ozono conforme al Protocolo de Montreal. 
           div(titulo="Resolución 2115 de 2007")
@@ -167,7 +167,7 @@
           .row(titulo="Resolución 361 de 2011")            
             p Modifica la Resolución 362 de 2009 sobre los planes de devolución posconsumo de baterías que usan plomo ácido. 
           div(titulo="Resolución 631 de 2015")
-            p Reglamenta los parámetros y los valores límites máximos permisibles sobre los vertimientos puntuales a cuerpos de aguas superficiales y sistemas de alcantarillados públicos, no aplica para los vertimientos en aguas marinas o suelos
+            p Reglamenta los parámetros y los valores límites máximos permisibles sobre los vertimientos puntuales a cuerpos de aguas superficiales y sistemas de alcantarillados públicos, no aplica para los vertimientos en aguas marinas o suelos.
           div(titulo="Resolución 668 de 2016")
             p Expide el reglamento para el uso racional y eficiente de las bolsas plásticas en Colombia. 
           div(titulo="Resolución 1741 de 2016")
@@ -177,10 +177,10 @@
           div(titulo="Resolución 2254 de 2017")
             p La cual hace referencia de la nueva norma de calidad del aire como parte de la estrategia del gobierno nacional para proteger la salud de los colombianos. 
           div(titulo="Resolución 1257 de 2018")
-            p Establece el contenido y la estructura de los programas para el uso eficiente y ahorro de agua, el cual aplica para las autoridades ambientales y proyectos que obtengan una concesión de aguas
+            p Establece el contenido y la estructura de los programas para el uso eficiente y ahorro de agua, el cual aplica para las autoridades ambientales y proyectos que obtengan una concesión de aguas.
           div(titulo="Resolución 1111 de 2013")
             p Contiene el Reglamento de Protección y Control de la Calidad del Aire, en el Decreto-Ley 3570 de 2011 y en el Decreto 2223 de 2013. 
-    p.mt-5 Son los lineamientos que la autoridad señala para la elaboración y ejecución de los estudios que deben ser presentados ante la autoridad competente.
+    p.mt-5 Las anteriores normas se pueden agrupar en diferentes áreas normativas:
     .row.mt-5
       .col-10.offset-1
         LineaTiempoD.color-acento-contenido

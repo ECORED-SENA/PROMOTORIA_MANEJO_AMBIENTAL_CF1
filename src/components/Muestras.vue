@@ -32,7 +32,6 @@ div.mb-5
 
   //- .titulo-sexto debe ir acompañado de una de una de estas clases => 
   //- .color-primario, .color-secundario, .color-acento-contenido, .color-acento-botones
-  
   .titulo-sexto.color-acento-contenido
     h5 Título de sexto nivel, 16pt
     span subtitulo
@@ -202,7 +201,7 @@ div.mb-5
       h4 Listado ordenado cuadro color
       ol.lista-ol--cuadro
         li 
-          .lista-ol--cuadro__vineta.primario
+          .lista-ol--cuadro__vineta
             span 1
           | Item lista ordenada 1
         li 
@@ -658,7 +657,6 @@ div.mb-5
   h3.titulo-tercero Cajón texto color A
   //- .bloque-texto-a debe ir acompañado de una de una de estas clases => 
   //- .color-primario, .color-secundario, .color-acento-contenido, .color-acento-botones
-  
   .bloque-texto-a.color-secundario.p-4.p-md-5.mb-5 
     .row.m-0.align-items-center.justify-content-between
       .col-lg-4.mb-4.mb-lg-0

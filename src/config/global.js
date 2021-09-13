@@ -3,7 +3,7 @@ export default {
     componenteFormativo: 'Entorno organizacional y ambiental',
     descripcionCurso:
       'En el componente se abordan temas que permiten la comprensión del entorno de la organización, según las diferentes normativas que apliquen en su interior, junto con la identificación de los aspectos e impactos ambientales que puedan afectar los procesos de la organización.',
-    imagenBannerPrincipal: require('@/assets/curso/banner-principal.png'),
+    imagenBannerPrincipal: require('@/assets/curso/banner-principal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/fondo-banner-principal.png'),
   },
   menuPrincipal: {

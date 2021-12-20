@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="59.012" height="60" viewBox="0 0 59.012 60">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectángulo_24343" data-name="Rectángulo 24343" width="59.012" height="60" fill="none"/>
+    </clipPath>
+    <pattern id="pattern" preserveAspectRatio="none" width="100%" height="100%" viewBox="0 0 67 68">
+      <image width="67" height="68" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEMAAABECAYAAADaz4jLAAAAAXNSR0IArs4c6QAAADhlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAAqACAAQAAAABAAAAQ6ADAAQAAAABAAAARAAAAADDg53OAAACDklEQVR4Ae2bPZIBURRGu6cmEAqFQkuwBEsQCi3BDixBKGQH7MASyIRCofBOX1WXY8oMunWbad+r6npfad7Pcd57nXSaJIlll0pG4EMUzgQ+I5q9ryBpmh4xyIywIasFQzBAAFFmCAYIIMoMwQABRJkhGCCAKDMEAwQQZYZggACizBAMEECUGYIBAogyQzBAAFFmCAYIIMoMwQABRJkhGCCAKDMEAwQQZYZggACizBAMEECUGYIBAogyQzBAAFFmCAYIIMoMwQABRJkhGCCAKDMEAwQQZYZggACizBAMEECUGYIBAognM+bzOT5+n7hcLs+TbTab/j7W8Wq1WjYajWy73WZvadW37HY7G4/H1m63T3NvNBqWHA4Hm06n1u12TzccTq/Xs9lsVisii8XC+v3+xTw7nY5NJhPb7/eWcLbr9dqGw6HVyZafLBgMBrZarTj9Sxhxpw623LIg5sr6wgzeiPyfbHnEgpgf65sw4stui68tX2Ox4f6VveWaBb45+ibpe8G95W4YbNDXmq+54w78opPomgX+5/gG6XDylFwwoiOnXrUtv1nggIqUQjDYcZm2lGEBxx75aTCiwWfaUqYFMV7WT4fBxvPYUpUFHGfkUmFEJ/fYUrUFMTbWlcBgh9ds4VFd9ERgX4/mymHEAL/bEs8FRU+EaD9PnfqPsn/jpWWz2STZw9xLx+CdfwEVvwtz4z3EVgAAAABJRU5ErkJggg=="/>
+    </pattern>
+  </defs>
+  <g id="Grupo_94873" data-name="Grupo 94873" transform="translate(0 51)">
+    <g id="Grupo_94876" data-name="Grupo 94876" transform="translate(0 -51)" clip-path="url(#clip-path)">
+      <rect id="Rectángulo_24342" data-name="Rectángulo 24342" width="59.012" height="60" fill="url(#pattern)"/>
+    </g>
+  </g>
+</svg>

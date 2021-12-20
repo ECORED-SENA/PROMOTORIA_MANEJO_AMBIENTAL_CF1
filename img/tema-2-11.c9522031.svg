@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="119.395" height="50" viewBox="0 0 119.395 50">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectángulo_24329" data-name="Rectángulo 24329" width="119.395" height="50" fill="none"/>
+    </clipPath>
+    <pattern id="pattern" preserveAspectRatio="none" width="100%" height="100%" viewBox="0 0 167 70">
+      <image width="167" height="70" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAKcAAABGCAYAAACpDoTLAAAAAXNSR0IArs4c6QAAADhlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAAqACAAQAAAABAAAAp6ADAAQAAAABAAAARgAAAAADInWHAAADOklEQVR4Ae3dv0p6cRyH8Y+nkjBoLtpCbGxw6hbsHrrAFueksTFE9AIiBxGjAu0fUfbrGwQNDanP6Xeq5yxF6dvjywcjl1N6eT3CQ4ECCmQFPCdPSYE3AeM0hMIKGGdhXxpPzDhtoLACxlnYl8YTM04bKKzA8qxnNplMot/vx/X19ax39fZ/RCDLstjc3Iytra0ol8tzP+uZ4kwfiQ4Ggzg8PIx2uz33g3rH3y2wvr4e+/v70Wg0vi/ORDoej6PT6cTx8fHvFvbZzS2Q3jHr9Xo8Pz/PvZHuONM7Z7rDdDqNx8fHeHh4iI2Njdje3o5KpZJ+5fGHBVKIFxcXcX5+/tZH6mTRY+Y4Pz5gtVqNg4OD2NnZiaWlpY+/8vs/JpD+Bzk6Oopms4k984XiXFtbi1qtFnt7e7GysoKdlEM/TyD9L3J6eoqeuB8loZyOkQLGSWq6hQoYJ8rpGClgnKSmW6iAcaKcjpECxklquoUKGCfK6RgpYJykpluogHGinI6RAsZJarqFChgnyukYKWCcpKZbqIBxopyOkQLGSWq6hQoYJ8rpGClgnKSmW6iAcaKcjpECxklquoUKGCfK6RgpYJykpluogHGinI6RAsZJarqFChgnyukYKWCcpKZbqIBxopyOkQLGSWq6hQoYJ8rpGClgnKSmW6iAcaKcjpECxklquoUKGCfK6RgpYJykpluogHGinI6RAsZJarqFChgnyukYKWCcpKZbqIBxopyOkQLGSWq6hQoYJ8rpGClgnKSmW6iAcaKcjpECxklquoUKLHR5wXTxzZubmxiNRrG8vNAU+qQc+36By8vLt4v1ko+8UFHD4TBarVZ0u90olUrkebn1wwRub2+j1+vF/f19pGuiEsdCcZ6dncXV1ZXvmsQr8cM30iWt7+7uYjKZ/L84syyLcrkcq6ur8fT0FOnt3EOBd4F0afPUB/GXtPTyerwPf+VrunTxyclJpHdNDwU+E0h/1uv1euzu7kalUvnsJl/62cxxfmnVGykACPhREoDoRD4CxpmPq6uAgHECiE7kI2Cc+bi6CggYJ4DoRD4CxpmPq6uAgHECiE7kI2Cc+bi6CggYJ4DoRD4C/wBch4+lN/xDrgAAAABJRU5ErkJggg=="/>
+    </pattern>
+  </defs>
+  <g id="Grupo_94867" data-name="Grupo 94867" transform="translate(0 33.72)">
+    <g id="Grupo_94855" data-name="Grupo 94855" transform="translate(0 -33.72)" clip-path="url(#clip-path)">
+      <rect id="Rectángulo_24328" data-name="Rectángulo 24328" width="119.395" height="50" fill="url(#pattern)"/>
+    </g>
+  </g>
+</svg>
